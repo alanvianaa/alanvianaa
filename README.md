@@ -1,13 +1,15 @@
 ### Hi there 👋, i'm Alan
-###### Back-End Developer
+###### 🏢️ Back-End Developer at [Calculato](http://calculato.com.br/)
 
 ### know-how
-![](https://img.shields.io/badge/Kotlin-gre) 
-![](https://img.shields.io/badge/Java-gre)
+![](https://img.shields.io/badge/Kotlin-green) 
+![](https://img.shields.io/badge/Java-green)
 ![](https://img.shields.io/badge/GraphQL-blue)
-![](https://img.shields.io/badge/Mongo-green)
-![](https://img.shields.io/badge/Postgress-green)
-![](https://img.shields.io/badge/MySQL-green)
+![](https://img.shields.io/badge/REST_API-blue)
+![](https://img.shields.io/badge/Docker-yellow)
+![](https://img.shields.io/badge/Mongo-red)
+![](https://img.shields.io/badge/Postgress-red)
+![](https://img.shields.io/badge/MySQL-red)
 
 ### 🐧️ OpenSource Contribution
 
