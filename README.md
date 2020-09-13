@@ -1,7 +1,7 @@
 ### Hi there 👋, i'm Alan
-######Back-End Developer
+###### Back-End Developer
 
-###know-how
+### know-how
 ![](https://img.shields.io/badge/Kotlin-gre) 
 ![](https://img.shields.io/badge/Java-gre)
 ![](https://img.shields.io/badge/GraphQL-blue)
@@ -9,7 +9,7 @@
 ![](https://img.shields.io/badge/Postgress-green)
 ![](https://img.shields.io/badge/MySQL-green)
 
-###🐧️ OpenSource Contribution
+### 🐧️ OpenSource Contribution
 
 [🥂️ database-utils](https://gitlab.com/calculato-oss/database-utils) <br>
 [🥂️ resource-utils](https://gitlab.com/calculato-oss/resource-utils) <br>
