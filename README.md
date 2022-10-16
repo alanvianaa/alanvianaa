@@ -15,7 +15,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=alanvianaa&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=alanvianaa&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=alanvianaa&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Meet me
 Site [alanviana.com](https://alanviana.com) <br>
