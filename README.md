@@ -1,6 +1,6 @@
 ### Hi there 👋, i'm Alan
 ###### 🏢️ Back-End Developer at [Calculato](http://calculato.com.br/)
-###### 🎒️ Information Systems student at [UFG](http://inf.ufg.br/)
+###### 🎒️ Graduated in Information Systems at [UFG](http://inf.ufg.br/)
 
 ### know-how
 ![](https://img.shields.io/badge/Kotlin-green) 
