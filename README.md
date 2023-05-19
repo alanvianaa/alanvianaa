@@ -12,8 +12,15 @@
 ![](https://img.shields.io/badge/Postgress-red)
 ![](https://img.shields.io/badge/MySQL-red)
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=alanvianaa&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<div align="center">
+  <a href="https://github.com/Backendeng">
+    <img id="preview" src="https://komarev.com/ghpvc/?username=alanvianaa&color=grey">
+    <br/><br/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alanvianaa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanvianaa&layout=compact&langs_count=10&theme=dark"/>
+   <img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=alanvianaa&theme=react-dark&hide_border=true" /> 
+  </a>
+</div>
 
 ### Meet me
 Site [alanviana.com](https://alanviana.com) <br>
