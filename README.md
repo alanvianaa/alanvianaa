@@ -1,3 +1,9 @@
+###
+
+<img align="right" height="150" src="https://i.pinimg.com/originals/cf/58/e8/cf58e8533f5d3bdff75366d5ad5df046.gif"  />
+
+###
+
 ### Hi there 👋, i'm Alan
 ###### 🏢️ Back-End Developer at [Calculato](http://calculato.com.br/)
 ###### 🎒️ Graduated in Information Systems at [UFG](http://inf.ufg.br/)
